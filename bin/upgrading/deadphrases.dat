@@ -211,8 +211,8 @@ general /setscheme.bml.select
 general /setscheme.bml.switch
 general /setscheme.bml.title
 
-general /support/faqbrowse.bml.backfaq
-general /support/faqbrowse.bml.backfaqcat
+general /suppora/faqbrowse.bml.backfaq
+general /suppora/faqbrowse.bml.backfaqcat
 general /support/faqbrowse.bml.backsupport
 general /support/faqbrowse.bml.title
 
@@ -1529,6 +1529,9 @@ general /manage/circle/add.bml.groups.reading.feed1
 general /manage/invites.bml.fromline
 
 general settings.usermessaging.obsolete
+
+general /support/see_request.bml.error.text2
+general /support/see_request.bml.incat
 
 general /views/admin/index.tt.admin.sitemessages_add.link
 general /views/admin/index.tt.admin.sitemessages_add.text
