@@ -1529,3 +1529,8 @@ general /manage/circle/add.bml.groups.reading.feed1
 general /manage/invites.bml.fromline
 
 general settings.usermessaging.obsolete
+
+general /views/admin/index.tt.admin.sitemessages_add.link
+general /views/admin/index.tt.admin.sitemessages_add.text
+general /views/admin/index.tt.admin.sitemessages_manage.link
+general /views/admin/index.tt.admin.sitemessages_manage.text
